@@ -45,7 +45,4 @@ A full-featured Chrome extension that helps you save, organize, and track coding
 4. Click **Load unpacked** and select the project folder.
 5. Done! Visit a problem page (e.g., LeetCode) and click the new **Save** icon.
 
----
-
-## 📂 Folder Structure
 
