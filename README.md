@@ -4,6 +4,17 @@ A full-featured Chrome extension that helps you save, organize, and track coding
 
 > 📌 Built by [Rushi Danidhariya](https://github.com/Rushi-web446) to streamline problem-solving workflows for competitive programmers.
 
+
+## 🔹  MERN Web App (Dashboard)  
+**Repo:** [MERN](https://github.com/Rushi-web446/MERN)  
+
+- Full-stack dashboard to **view, search, and filter problems**.  
+- **JWT-based authentication** with persistent login.  
+- Analytics with progress tracking, difficulty filtering, and tagging.  
+- Built with React, Node.js, Express, and MongoDB.  
+
+
+
 ---
 
 ## 🖼️ Demo
